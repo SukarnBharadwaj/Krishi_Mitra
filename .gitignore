@@ -1,0 +1,5 @@
+node_modules/
+.env
+start_commands.md
+__pycache__/
+*.log
